@@ -10,4 +10,4 @@ Michele's modification to her own mars.txt file.
 
 Julien's modifications to Michelle's file: Hello!!
 
-Julien decided to modify the LAST line AT the SAME TIME
+Julien decided to modify the LAST line AT the SAME TIME, Michele modified the last line locally.
